@@ -34,7 +34,15 @@ Neue Lösungen/Plattformen
 - Android
 - PC Linux
 - Kodi
-
+- integrate TSun Balkonsolar (alle Elemente und Namen/Begriffe der Platform aufzählen 
+Hersteller: TSUN
+Monitoring Platform
+Wechselrichter:
+Solarmodule:
+Android Apps:
+Vertrieb in Deutschland
+Service Kontaktv
+Anbindung/Einbindung der Monitoring Plattform in Home Assistant: Python Skript aus Github, Analyse der TalentvMonitorig Plattform/Internetseite mit Mozilla
 
 
 
